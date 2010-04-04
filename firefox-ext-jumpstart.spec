@@ -5,7 +5,7 @@
 Summary:	New Tab JumpStart for firefox
 Name:		firefox-ext-jumpstart
 Version:	0.5a5.3
-Release:	%mkrel 2
+Release:	%mkrel 3
 License:	MPL
 Group:		Networking/WWW
 URL:		https://addons.mozilla.org/en-US/firefox/addon/8914
